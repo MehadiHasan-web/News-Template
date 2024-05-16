@@ -1,0 +1,12 @@
+body{
+    font-family: SolaimanLipi, Arial, Helvetica, sans-serif !important;
+}
+#top .date p{
+    font-size: 15px ;
+}
+#top .social-link:hover {
+    background-color: rgb(88, 139, 206);
+}
+#top .logo{
+    width: 340px;
+}
