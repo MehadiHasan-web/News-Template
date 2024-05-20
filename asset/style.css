@@ -10,3 +10,21 @@ body{
 #top .logo{
     width: 340px;
 }
+/* img-hover */
+.img-hover {
+    transition: transform 0.5s;
+    cursor: pointer;
+}
+
+.img-hover:hover img {
+    transform: scale(1.2);
+    overflow: hidden;
+}
+.link{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.link:hover{
+    color: blue;
+}
